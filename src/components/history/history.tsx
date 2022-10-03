@@ -6,7 +6,7 @@ import { HiOutlineBookOpen } from "react-icons/hi";
 
 export default function History() {
   return (
-    <Box padding='20px' textAlign='initial' color='white'>
+    <Box textAlign='initial' color='white'>
       <Flex direction='column' align='flex-start' gap='10px' marginBottom='10px' >
         <Text fontSize='32px' fontWeight='bold'>The home for all developers - including you.</Text>
         <Text >Welcome to your personal dashboard, where you can find an introduction to how GitHub works, tools to help you build software, and help merging your first lines of code</Text>

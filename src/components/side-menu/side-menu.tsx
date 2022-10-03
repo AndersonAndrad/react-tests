@@ -9,7 +9,7 @@ export default function SideMenu() {
     <Box
       bg='gray.700'
       padding='10'
-      height='full'
+      h='100%'
       color='white'
       borderRight='1px'
       borderColor='gray.100'

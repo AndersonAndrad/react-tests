@@ -4,7 +4,7 @@ import { AiOutlineTool } from "react-icons/ai";
 
 export default function Tools() {
   return (
-    <Box padding='20px' textAlign='initial' color='white'>
+    <Box textAlign='initial' color='white'>
       <Flex direction='column'>
         <Flex align='center' gap='10px'>
           <Box bg='gray.100' padding='10px' borderRadius='full' color='gray.800'>
